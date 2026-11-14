@@ -18,7 +18,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩🏻‍💻 About Me
 
 I'm **Behina Kordbacheh**, a Computer Engineering student at the **University of Tehran**, passionate about artificial intelligence, machine learning, software development, and technology-driven innovation.
 
