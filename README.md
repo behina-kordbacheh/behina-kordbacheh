@@ -35,6 +35,12 @@ I enjoy combining programming, research, and creative problem-solving to explore
 
 ## 🏆 Honors & International Recognition
 
+
+<div align="center">
+  <img src="awards.png" alt="Behina Kordbacheh International Awards" width="650">
+</div>
+
+
 ### 🌍 IFIA Inventor Membership
 
 **Recognized as an IFIA "Inv" Member**
