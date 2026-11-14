@@ -163,16 +163,27 @@ Awarded for the invention:
 #### 🛠️ Engineering Focus
 Sustainable Engineering • Smart Water Management • IoT Concepts • Environmental Innovation
 
-### 🤖 Arduino & Embedded Systems
 
-Hands-on exploration of electronics, microcontrollers, and programming.
+### 🤖 Arduino & Embedded Systems Development
 
-**Areas of interest:**
-- Arduino programming
-- Sensors and actuators
-- Electronic circuits
-- Interactive hardware projects
-- Embedded systems fundamentals
+**Exploring Embedded Technologies, Microcontroller Programming & Intelligent Hardware Systems**
+
+Actively developing practical skills in embedded systems, electronics, and microcontroller-based programming, with a focus on integrating software and hardware to create interactive and responsive systems.
+
+My hands-on experience includes working with Arduino development platforms, electronic circuits, sensor-based applications, and programmable hardware components.
+
+**Areas of Technical Focus:**
+- Embedded Systems & Microcontroller Programming
+- Hardware–Software Integration
+- Sensor Interfacing & Data Acquisition
+- Electronic Circuit Design & Prototyping
+- Interactive Systems Development
+- Arduino-Based Automation Concepts
+
+**Technical Environment:** Arduino IDE | C/C++ | Microcontrollers | Electronic Prototyping
+
+Continuously expanding my knowledge of embedded technologies, with a growing interest in intelligent hardware, automation, and real-world engineering applications.
+
 
 ---
 
