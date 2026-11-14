@@ -95,6 +95,22 @@ A machine learning project exploring patterns in digital behavior and screen-tim
 
 **Technologies:** Python, Pandas, Scikit-learn, Machine Learning
 
+#### 📊 Machine Learning Performance
+
+| Model | Accuracy | ROC-AUC |
+|---|---|---|
+| Logistic Regression | 87.5% | 0.954 |
+| Random Forest | 93.9% | 0.989 |
+
+*Experimental results on a held-out test dataset.*
+
+#### 🔬 Technical Highlights
+- Analyzed 7,500 records of digital behavior data.
+- Applied data preprocessing and feature engineering.
+- Developed and compared machine learning classifiers.
+- Evaluated predictive performance using multiple metrics.
+
+
 ### 💧 ResourceLoop — Smart Water Reuse System
 
 **Sustainable Engineering & Smart Resource Management**
