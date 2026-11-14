@@ -55,3 +55,11 @@ Machine Learning • Deep Learning • Python • Robotics • AI Applications
 ---
 
 *Turning ideas into meaningful technology.*
+
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/behina-kordbacheh-77338844a/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-My_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/behina-kordbacheh)
+
