@@ -3,7 +3,7 @@
 
 # Hi, I'm Behina Kordbacheh 👋
 
-### Computer Engineering Student | AI & Machine Learning Enthusiast | Innovator
+### Computer Engineering Student | AI & Machine Learning | Software Development | Embedded Systems | Innovator
 
 ![Profile Views](https://komarev.com/ghpvc/?username=behina-kordbacheh&color=7B68EE&style=for-the-badge)
 
